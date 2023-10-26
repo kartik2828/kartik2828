@@ -9,6 +9,7 @@ Hi there, my name is Kartik Sharma, and I am currently working as a Technical Re
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [About Me](http://meet-kartiksharma.netlify.app/)
 * ✉️  You can contact me at [ksb40968@gmail.com](mailto:ksb40968@gmail.com)
+* 👨‍💻 My Tableau Projects are at [Tableau Public Profile](https://public.tableau.com/app/profile/kartik.sharma1373/vizzes)
 * 🧠  I'm learning SQL, Python, Tableau
 
 <a href="https://www.github.com/kartik2828" target="_blank" rel="noreferrer"><img
