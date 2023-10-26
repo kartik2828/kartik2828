@@ -10,7 +10,7 @@ Hi there, my name is Kartik Sharma, and I am currently working as a Technical Re
 * 🖥️  See my portfolio at [About Me](http://meet-kartiksharma.netlify.app/)
 * ✉️  You can contact me at [ksb40968@gmail.com](mailto:ksb40968@gmail.com)
 * 👨‍💻 My Tableau Projects are at [Tableau Public Profile](https://public.tableau.com/app/profile/kartik.sharma1373/vizzes)
-* 🧠  I'm learning SQL, Python, Tableau
+* 🧠  I'm learning JAVA, SQL, Python, Tableau
 
 <a href="https://www.github.com/kartik2828" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kartik2828?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Kartik_sharmaaa" target="_blank" rel="noreferrer"><img
