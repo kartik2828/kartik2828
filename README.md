@@ -28,8 +28,6 @@
 
 ### ❤ Views and Followers
 
-<a href="https://github.com/carrycooldude?tab=followers"><img src="https://img.shields.io/github/followers/carrycooldude?label=Followers&style=social" alt="GitHub Badge"></a>
-
 
 ![](https://komarev.com/ghpvc/?username=kartik2828&color=blueviolet&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 <a href="https://github.com/kartik2828?tab=followers"><img src="https://img.shields.io/github/followers/kartik2828?label=Followers&style=social" alt="GitHub Badge"></a>
