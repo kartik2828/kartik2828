@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://github.com/kartik2828/github-readme-stats">
-  <img alt="Kartik Sharma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik2828&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="Kartik Sharma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik2828&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
