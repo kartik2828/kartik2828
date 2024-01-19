@@ -2,6 +2,8 @@
 
 ## Kartik Sharma ([@Kartik_Sharmaaa](https://twitter.com/Kartik_Sharmaaa)) | Technical Research Analyst at Intellipaat
 
+<h6> 1) I am currently working in Intellipaat</h6>
+
 ### 📊 My Github Stats
 <br/>
 <a href="https://github.com/kartik2828/github-readme-stats">
