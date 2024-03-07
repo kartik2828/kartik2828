@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## Kartik Sharma ([@Kartik_Sharmaaa](https://twitter.com/Kartik_Sharmaaa)) | Technical Research Analyst at Intellipaat
+## I am Kartik Sharma ([@Kartik_Sharmaaa](https://twitter.com/Kartik_Sharmaaa)) | A passionate Full Stack Web developer
 
 <h6> 1) I am currently working in Intellipaat</h6>
 
