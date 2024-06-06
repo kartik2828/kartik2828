@@ -1,87 +1,38 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*KoiHYL8M5Le2x7G4LbBWRw.jpeg)](https://kartik2828)
+<h1 align="center">Hi 👋, I'm Kartik Sharma</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-![](https://komarev.com/ghpvc/?username=kartik2828&color=blueviolet&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
-<a href="https://github.com/kartik2828?tab=followers">
-  <img src="https://img.shields.io/github/followers/kartik2828?label=Followers&style=social" alt="GitHub Badge">
-</a>
+- 🔭 I’m currently working on **portfolio site**
+
+- 🌱 I’m currently learning **Spring Boot**
+
+- 📝 I regularly write articles on [https://medium.com/@ksb40968](https://medium.com/@ksb40968)
+
+- 💬 Ask me about **Java,SQL, Html,Css,JavaScript,Tableau**
+
+- 📫 How to reach me **kartiksharma28.work@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik2828&label=Profile%20views&color=0e75b6&style=flat" alt="kartik2828" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik2828" alt="kartik2828" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/kartik_sharmaaa" target="blank"><img src="https://img.shields.io/twitter/follow/kartik_sharmaaa?logo=twitter&style=for-the-badge" alt="kartik_sharmaaa" /></a> </p>
 
 
-## I am Kartik Sharma ([@Kartik_Sharmaaa](https://twitter.com/Kartik_Sharmaaa)) 
 
-- 👨‍💻 I am a passionate Full Stack Web developer
-  
-- - 🌱 I’m exploring React.js
-
-- 📫 How to reach me kartiksharma28.work@gmail.com
-
-<h3 lign="left"> Languages and Tools </h3> 
-<p>
-    <a href="https://www.java.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
-    </a>
-     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Sql" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="Html" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS  " width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript  " width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" width="40" height="40"/>
-    </a>
-    <a href="https://www.cplusplus.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    </a>
-    <a href="https://www.tableau.com/" target="_blank">
-       <img src="https://logowik.com/content/uploads/images/tableau2666.logowik.com.webp" alt="React.js" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="Mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://restfulapi.net/" target="_blank">
-        <img src="https://media.licdn.com/dms/image/D4D12AQEeNNHq05k7MA/article-cover_image-shrink_720_1280/0/1687786979245?e=2147483647&v=beta&t=AVc2G-hvHNjTMklQtEt6qlby2l79Bf5dBBkUB5DBRe0" alt="Mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Mongodb" width="40" height="40"/>
-    </a>
-</p>
-
-### Connect with me:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/kartik-sharmaa/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://twitter.com/Kartik_Sharmaaa"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href="https://www.instagram.com/iam__kartiksharma_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/kartik_sharmaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartik_sharmaaa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kartik-sharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik-sharmaa" height="30" width="40" /></a>
+<a href="https://medium.com/@ksb40968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ksb40968" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kartik2809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartik2809" height="30" width="40" /></a>
 </p>
 
- 📊 My Github Stats
- <br>
-<a align="left" href="https://github.com/kartik2828/github-readme-stats">
-  <img alt="Kartik Sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kartik2828&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img alt="Kartik Sharma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik2828&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartik2828&show_icons=true&locale=en&layout=compact" alt="kartik2828" /></p>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img alt="Kartik Sharma's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik2828&theme=radical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-  </a>
-</div>
-<br/>
-<br/>
-<div align="center">
-  <a href="https://github.com/kartik2828/github-readme-activity-graph">
-    <img alt="Kartik Sharma's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kartik2828&theme=github-compact" />
-  </a>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartik2828&show_icons=true&locale=en" alt="kartik2828" /></p>
 
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik2828&" alt="kartik2828" /></p>
