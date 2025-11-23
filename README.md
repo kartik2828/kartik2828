@@ -1,17 +1,14 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*KoiHYL8M5Le2x7G4LbBWRw.jpeg)](https://kartik2828)
-<h1 align="center">Hi 👋, I'm Kartik Sharma</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h1 align="center">👋 Hey, I'm Kartik Sharma</h1>
+<h3 align="center">Software Engineer @ Coforge</h3>
+I am working as a Software Engineer in the Data Engineering team at Coforge,  
+focusing on building reliable and scalable data solutions using Azure & Databricks.
 
-- 🔭 I’m currently working on **portfolio site**
-
-- 🌱 I’m currently learning **Spring Boot**
-
-- 📝 I regularly write articles on [https://medium.com/@ksb40968](https://medium.com/@ksb40968)
-
-- 💬 Ask me about **Java,SQL, Html,Css,JavaScript,Tableau**
-
-- 📫 How to reach me **kartiksharma28.work@gmail.com**
+- ⚙ ETL/ELT Development using Azure Analytics Stack
+- 📡 Data ingestion, transformation & Lakehouse implementation
+- ⚡ Spark performance tuning + orchestration automation
+- 🧠 Interested in SQL optimization & secure data design
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik2828&label=Profile%20views&color=0e75b6&style=flat" alt="kartik2828" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik2828" alt="kartik2828" /></a> </p>
