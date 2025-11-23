@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*KoiHYL8M5Le2x7G4LbBWRw.jpeg)](https://kartik2828)
 <h1 align="center">👋 Hey, I'm Kartik Sharma</h1>
 <h3 align="center">Software Engineer @ Coforge</h3>
 I am working as a Software Engineer in the Data Engineering team at Coforge,  
